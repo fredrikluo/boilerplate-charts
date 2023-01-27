@@ -1,0 +1,48 @@
+replicaCount: 1
+
+name: remoteconfig
+
+image:
+  repository: eu.gcr.io/kahoot-repository/remoteconfig
+  tag: main
+  pullPolicy: IfNotPresent
+
+service:
+  name: remoteconfig
+  type: NodePort
+  externalPort: 8080
+  internalPort: 8080
+
+resources:
+  limits:
+    cpu: 200m
+    memory: 400Mi
+  requests:
+    cpu: 100m
+    memory: 200Mi
+
+hpa:
+    minReplicas: 1
+    maxReplicas: 25
+    targetCPU: 60
+    scaleDownLimit: 2
+    scaleDownPeriod: 180
+    scaleDownStabilization: 300
+
+ingress:
+  enabled: false
+
+probePath: /health
+livenessProbe:
+  initialDelaySeconds: 60
+  periodSeconds: 10
+  successThreshold: 1
+  timeoutSeconds: 1
+readinessProbe:
+  periodSeconds: 10
+  successThreshold: 1
+  timeoutSeconds: 1
+terminationGracePeriodSeconds: 10
+
+env:
+  IS_DEBUG: "true"

@@ -1,2 +1,0 @@
-# boilerplate-charts
-boilerplate-charts

@@ -1,0 +1,35 @@
+{{- define "bplibchart.hpa" -}}
+{{- if  and (.Values.hpa) (not .Values.hpa.disabled) }}
+apiVersion: autoscaling/v2beta2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: {{ .Values.name }}
+  labels:
+    chart: "{{ $.Chart.Name }}-{{ $.Chart.Version }}"
+    app.kubernetes.io/name: "{{ $.Chart.Name }}"
+    appkubernetes.io/component: "{{ .Values.name }}"
+spec:
+  minReplicas: {{ .Values.hpa.minReplicas }}
+  maxReplicas: {{ .Values.hpa.maxReplicas }}
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: {{ .Values.hpa.targetCPU }}
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name:  {{ template "fullname" . }}
+  behavior:
+    scaleDown:
+      policies:
+        - type: Pods
+          value: {{ .Values.hpa.scaleDownLimit }}
+          periodSeconds: {{ .Values.hpa.scaleDownPeriod }}
+      selectPolicy: Min
+      stabilizationWindowSeconds: {{ .Values.hpa.scaleDownStabilization }}
+---
+{{- end }}
+{{- end -}}
