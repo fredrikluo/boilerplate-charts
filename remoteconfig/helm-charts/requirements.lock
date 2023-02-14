@@ -1,0 +1,6 @@
+dependencies:
+- name: bplibchart
+  repository: file://../../common/helm-charts
+  version: 0.1.0
+digest: sha256:390277662aba6a17c15b0dc6bb8e73529ecbf9187fe050b3bbc7918b4131bbc5
+generated: "2023-02-14T21:03:57.984624453Z"

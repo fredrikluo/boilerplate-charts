@@ -3,7 +3,7 @@ replicaCount: 1
 name: remoteconfig
 
 image:
-  repository: eu.gcr.io/kahoot-repository/remoteconfig
+  repository: fredrikluo/remoteconfig
   tag: main
   pullPolicy: IfNotPresent
 
