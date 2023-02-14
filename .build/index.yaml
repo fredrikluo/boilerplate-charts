@@ -3,9 +3,9 @@ entries:
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-14T21:03:57.995524'
+    created: '2023-02-14T21:06:47.563137'
     description: A Helm chart for Kubernetes
-    digest: bad58673d1dd30b442eae7c74e42db05ef8c1ff0a48c41b76738cb737dac4ab9
+    digest: a2ce017c592ae7537c59617b76114f1119e88adbb03e85e3a812dd821b78dd81
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
