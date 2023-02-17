@@ -3,14 +3,14 @@ entries:
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-17T18:47:10.208176'
+    created: '2023-02-17T22:56:41.109253'
     description: A Helm chart for Kubernetes
-    digest: 704cbb32d285b6c611854dc8967fad769a942112ee23f3ded9ff209f58ef980a
+    digest: ba9a53f29265f33294f22f2ab98a7e06b7feea2ad05a91587b07b5b62b1f97a2
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.6.0.tgz
-    version: 0.6.0
+    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.7.0.tgz
+    version: 0.7.0
   socialnets:
     apiVersion: v1
     appVersion: '1'
