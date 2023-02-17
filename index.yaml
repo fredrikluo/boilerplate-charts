@@ -3,20 +3,20 @@ entries:
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-17T15:57:16.541014'
+    created: '2023-02-17T18:26:09.571078'
     description: A Helm chart for Kubernetes
-    digest: a4b5549c4d6eaee99d3d729370232bc44c82acd357b48360a0b88e565e83f964
+    digest: 7ac78fc5939cd7b125b141e4472366fb438833a879f0229fd38fb64a8c5729bd
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.3.0.tgz
-    version: 0.3.0
+    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.5.0.tgz
+    version: 0.5.0
   socialnets:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-17T15:57:16.542516'
+    created: '2023-02-17T18:26:09.572230'
     description: A Helm chart for Kubernetes
-    digest: e32e9cc47e02b7cb8412a661442ec13e887fcf493a0f76577319a1f3d6e193e1
+    digest: aaf266985604ad99950e451be578ce9d01e21d18013091911b073a4f2bb17f9a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: socialnets
     urls:
