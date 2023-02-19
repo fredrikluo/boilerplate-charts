@@ -3,14 +3,14 @@ entries:
   contents:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:32:11.412547'
+    created: '2023-02-19T22:39:00.629996'
     description: A Helm chart for Kubernetes
-    digest: 5bdd6669d29b791f5812e96ce2d689a0143f605611119b6fa628ba30262caac5
+    digest: 9875827b2848fd96d96e0fcf115d19b81ed2461790767213a0013105fc73dded
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: contents
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/contents-0.5.0.tgz
-    version: 0.5.0
+    - https://fredrikluo.github.io/boilerplate-charts/contents-0.6.0.tgz
+    version: 0.6.0
   media:
     apiVersion: v1
     appVersion: '1'
