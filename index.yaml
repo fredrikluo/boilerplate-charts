@@ -14,14 +14,14 @@ entries:
   media:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:03:47.338611'
+    created: '2023-02-19T22:24:10.601465'
     description: A Helm chart for Kubernetes
-    digest: 0896538cd6f0ab6fb23f2a383cf7c36cccc29c5b38da4e43194721ea254f90dc
+    digest: cfa94b57573da0c134be0cd953c89f4e6df8443bcf304f769b14e3c6ff4d85a3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: media
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/media-0.1.0.tgz
-    version: 0.1.0
+    - https://fredrikluo.github.io/boilerplate-charts/media-0.2.0.tgz
+    version: 0.2.0
   notification:
     apiVersion: v1
     appVersion: '1'
@@ -36,14 +36,14 @@ entries:
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:21:41.690323'
+    created: '2023-02-19T22:24:10.602608'
     description: A Helm chart for Kubernetes
-    digest: 51b7b192a4e07eceb00f1feea9233374e29e31b58ceb40c5713aab37e279ba08
+    digest: 2cd5609a8f127d856ce23544520f1d4bdb78eefe7fcd53c340608a3b3d40786e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.8.0.tgz
-    version: 0.8.0
+    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.9.0.tgz
+    version: 0.9.0
   socialnets:
     apiVersion: v1
     appVersion: '1'
