@@ -11,6 +11,17 @@ entries:
     urls:
     - https://fredrikluo.github.io/boilerplate-charts/contents-0.3.0.tgz
     version: 0.3.0
+  media:
+    apiVersion: v1
+    appVersion: '1'
+    created: '2023-02-19T22:03:47.338611'
+    description: A Helm chart for Kubernetes
+    digest: 0896538cd6f0ab6fb23f2a383cf7c36cccc29c5b38da4e43194721ea254f90dc
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
+    name: media
+    urls:
+    - https://fredrikluo.github.io/boilerplate-charts/media-0.1.0.tgz
+    version: 0.1.0
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
