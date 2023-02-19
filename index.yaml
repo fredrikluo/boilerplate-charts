@@ -3,9 +3,9 @@ entries:
   contents:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:39:00.629996'
+    created: '2023-02-19T22:54:55.265237'
     description: A Helm chart for Kubernetes
-    digest: 9875827b2848fd96d96e0fcf115d19b81ed2461790767213a0013105fc73dded
+    digest: b8cf18edf958f5d37ef6f08d66a69b43d7ea893c0738ed1a4cbab2bdc658be5a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: contents
     urls:
@@ -14,9 +14,9 @@ entries:
   media:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:24:14.497978'
+    created: '2023-02-19T22:54:55.266868'
     description: A Helm chart for Kubernetes
-    digest: 6b64aa0c21936eab2f79619bcde9db43f468a4499e84d93edeaac8adbd77e5f2
+    digest: 01ccce28639cb12bbb4a98d61a169d0c248c756c2691d539c2f620a38ef3c82c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: media
     urls:
@@ -25,9 +25,9 @@ entries:
   notification:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:18:01.469810'
+    created: '2023-02-19T22:54:55.268217'
     description: A Helm chart for Kubernetes
-    digest: 40cbbbe81268471353136a2ad0b828d9c075c4ab7c646a253fea553c60859bc8
+    digest: 4816b9b52fdf4ca9f10ccc9f5c0b45cb9d1a791267e4371856c7f9336c8daeee
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: notification
     urls:
@@ -36,9 +36,9 @@ entries:
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:24:14.499271'
+    created: '2023-02-19T22:54:55.269820'
     description: A Helm chart for Kubernetes
-    digest: bea088750d64efbca2c68064aa6c3d32c7d8c0df8ac1f222333889cd598fc961
+    digest: ef0b3d591aa1f8190e505a8e6c9a5ff5341e04a49aa2ab510c8e814a2dbd87b9
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
@@ -47,9 +47,9 @@ entries:
   socialnets:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:21:41.691782'
+    created: '2023-02-19T22:54:55.271311'
     description: A Helm chart for Kubernetes
-    digest: c149ab1b364887884ababc8db4b82d83cbc5ce68480113d5af40de47a9bc820b
+    digest: b7f17143903857fe27050b210f56ede2f67c83f1a30e505dcca740b587ae874d
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: socialnets
     urls:
@@ -58,9 +58,9 @@ entries:
   subscription:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:28:12.992776'
+    created: '2023-02-19T22:54:55.272715'
     description: A Helm chart for Kubernetes
-    digest: 360ae1ce4ed4ef6cc31b394ee584fdc0a456a568d8ce8953b80c71beddd75b9c
+    digest: 40e9c94dd42747506de04ab468e6fb4d9e10bc527f590c7dfdcb259948f28b28
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: subscription
     urls:
@@ -69,12 +69,12 @@ entries:
   users:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:21:41.693073'
+    created: '2023-02-19T22:54:55.274724'
     description: A Helm chart for Kubernetes
-    digest: 35f766857e8ae4cf912c98d80335157fb487f6653c2f1d52518c5c516f45742a
+    digest: 2cac5312cc176a7930ee62f0badf9df1b499d8a0cd9fc6154074c378deef8e37
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: users
     urls:
     - https://fredrikluo.github.io/boilerplate-charts/users-0.1.0.tgz
     version: 0.1.0
-generated: '2023-02-19T22:41:45.148280'
+generated: '2023-02-19T22:54:55.274818'
