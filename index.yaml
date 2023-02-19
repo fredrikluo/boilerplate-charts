@@ -25,14 +25,14 @@ entries:
   notification:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:09:09.048060'
+    created: '2023-02-19T22:18:01.469810'
     description: A Helm chart for Kubernetes
-    digest: a16c63674abd4a3f782496bf1cb0f5833733839f2ad35e3296de5bade7d4aa3b
+    digest: 40cbbbe81268471353136a2ad0b828d9c075c4ab7c646a253fea553c60859bc8
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: notification
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/notification-0.1.0.tgz
-    version: 0.1.0
+    - https://fredrikluo.github.io/boilerplate-charts/notification-0.2.0.tgz
+    version: 0.2.0
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
