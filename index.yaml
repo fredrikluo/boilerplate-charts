@@ -3,9 +3,9 @@ entries:
   contents:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:28:06.150914'
+    created: '2023-02-19T22:28:12.991652'
     description: A Helm chart for Kubernetes
-    digest: cc83e815b03490373f14531c3254dc0aa494ad81d8741c0d3d4b7b8918de2476
+    digest: afef12c3606bb56feb5c223d6aa070ff4e84fe21d4776b88a64c08354f9fd305
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: contents
     urls:
@@ -58,9 +58,9 @@ entries:
   subscription:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-02-19T22:28:06.152011'
+    created: '2023-02-19T22:28:12.992776'
     description: A Helm chart for Kubernetes
-    digest: f1d7a8dbbfdc99bbc3b15ddad38f107b36c69cce58724367f7716cf28d54998c
+    digest: 360ae1ce4ed4ef6cc31b394ee584fdc0a456a568d8ce8953b80c71beddd75b9c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: subscription
     urls:
