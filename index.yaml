@@ -3,78 +3,78 @@ entries:
   contents:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-03-13T21:51:02.423037'
+    created: '2023-03-13T22:03:54.156379'
     description: A Helm chart for Kubernetes
-    digest: 4fe8b276d638bd532e509970f8e4c4ef2c7028631acb1053b844fa3cd215b1d9
+    digest: 46b5da9571e0d96cf1180224dda43440e04e665786a26d9b9830b2286b3fcd7f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: contents
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/contents-0.8.0.tgz
-    version: 0.8.0
+    - https://fredrikluo.github.io/boilerplate-charts/contents-0.9.0.tgz
+    version: 0.9.0
   media:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-03-13T21:51:02.424152'
+    created: '2023-03-13T22:03:54.157882'
     description: A Helm chart for Kubernetes
-    digest: d30459f0f45be8fce75f444b5f045e7431fe50d736bbe1f2da9dbfa91c59eb31
+    digest: 5a5a33df4672a61569c2fce47ea43d938ea0fcf9884dd773af10f64ec2d5c90e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: media
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/media-0.3.0.tgz
-    version: 0.3.0
+    - https://fredrikluo.github.io/boilerplate-charts/media-0.4.0.tgz
+    version: 0.4.0
   notification:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-03-13T21:51:02.425206'
+    created: '2023-03-13T22:03:54.159020'
     description: A Helm chart for Kubernetes
-    digest: b90c0c4cbe9ac45b9ba169b38d6f9dda5182e29154d637f76f7889c9e3bdf8fb
+    digest: bfd731d91c285c92af9555e1f4e592b72d1ef09f7c057a504b8b86c9b01cd25f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: notification
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/notification-0.3.0.tgz
-    version: 0.3.0
+    - https://fredrikluo.github.io/boilerplate-charts/notification-0.4.0.tgz
+    version: 0.4.0
   remoteconfig:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-03-13T21:51:02.426243'
+    created: '2023-03-13T22:03:54.160092'
     description: A Helm chart for Kubernetes
-    digest: 6f1d6158a192cb741d62c70b749a6824ba8697c334966084f3f44abbcfe69ba2
+    digest: 8bc770eda303de3d6658943639fc601cc5b3bff9cf2fa5886c349e62be1aecae
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.10.0.tgz
-    version: 0.10.0
+    - https://fredrikluo.github.io/boilerplate-charts/remoteconfig-0.11.0.tgz
+    version: 0.11.0
   socialnets:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-03-13T21:51:02.427289'
+    created: '2023-03-13T22:03:54.161150'
     description: A Helm chart for Kubernetes
-    digest: 6409a2f2cb320ec7a502c210a2bd3d4cc1e13cefce843c5af0c8f08f780f40c5
+    digest: 8c5f9eefd4a082225da33e61b71181f91ec198b8d4438f79a6e95d207832e0ca
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: socialnets
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/socialnets-0.3.0.tgz
-    version: 0.3.0
+    - https://fredrikluo.github.io/boilerplate-charts/socialnets-0.4.0.tgz
+    version: 0.4.0
   subscription:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-03-13T21:51:02.428319'
+    created: '2023-03-13T22:03:54.162190'
     description: A Helm chart for Kubernetes
-    digest: f8e639bac6654be6e2ba6de04c7508d6bbcca45b44d92b4abdaa2d4960bd4bd0
+    digest: a2247e42502b6fae6f437d826e1953fe77caa943d2663c44d617bcf1744cd9e2
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: subscription
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/subscription-0.2.0.tgz
-    version: 0.2.0
+    - https://fredrikluo.github.io/boilerplate-charts/subscription-0.3.0.tgz
+    version: 0.3.0
   users:
     apiVersion: v1
     appVersion: '1'
-    created: '2023-03-13T21:51:02.429329'
+    created: '2023-03-13T22:03:54.163225'
     description: A Helm chart for Kubernetes
-    digest: 78d6f5531e952c2be8ee8990d1fa8906440146903aec11d9ac770054ba6c8885
+    digest: b4430332c451dd51c81a3f62eed9b86abac212550cfb27ceec9e54a22a3442c3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: users
     urls:
-    - https://fredrikluo.github.io/boilerplate-charts/users-0.2.0.tgz
-    version: 0.2.0
-generated: '2023-03-13T21:51:02.429374'
+    - https://fredrikluo.github.io/boilerplate-charts/users-0.3.0.tgz
+    version: 0.3.0
+generated: '2023-03-13T22:03:54.163280'
