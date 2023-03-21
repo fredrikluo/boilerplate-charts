@@ -3,9 +3,9 @@ entries:
   contents:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.015164027Z"
+    created: "2023-03-21T16:07:03.788150918Z"
     description: A Helm chart for Kubernetes
-    digest: d6ffee2f4e84b694101a5f499594679286f0a0b65b73acc7e039481e0e557f62
+    digest: 9f89ee2822a8c537a9d131b3931f657535b65ad549c7b60ca1f5d46a0052daa5
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: contents
     urls:
@@ -14,9 +14,9 @@ entries:
   media:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.015679434Z"
+    created: "2023-03-21T16:07:03.789198472Z"
     description: A Helm chart for Kubernetes
-    digest: 7f4d536ff8fd35f9e77129fe6eb1c5ca223da0bda627edbfbb05dd188f4e3935
+    digest: c7e1025e4b8a369ffadfa919ec1187c3ec61113d15491541865ed714f44d5f45
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: media
     urls:
@@ -25,9 +25,9 @@ entries:
   notification:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.016194241Z"
+    created: "2023-03-21T16:07:03.789676596Z"
     description: A Helm chart for Kubernetes
-    digest: 8ddd52f039cc92c498fa3640ce812e10610cd26bb0634a48df82f8a0824a1dd0
+    digest: 2402b1fc3606c845b3f64bae77c96e1da196512b9202c336617a94737107e035
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: notification
     urls:
@@ -36,9 +36,9 @@ entries:
   remoteconfig:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.016676248Z"
+    created: "2023-03-21T16:07:03.79013932Z"
     description: A Helm chart for Kubernetes
-    digest: c79b11320e67476b57ffd98f154c8212b375771e7f4eaaaa768ca14ad2f6a0ad
+    digest: 3bb9933fac06e9642a5cda42134ea1dd78a95d1c2f31beec4586a1cbdbe81a64
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
@@ -47,9 +47,9 @@ entries:
   socialnets:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.017174855Z"
+    created: "2023-03-21T16:07:03.790627845Z"
     description: A Helm chart for Kubernetes
-    digest: 57388ee5f7af1cc7b9aa1e6ee4a0e72c9ab25852afc4e2dbdb3b9cd1c9c8a1d5
+    digest: 989fcda70988c07d8577c997f952e4597de8dd807e10a8f298071c5ca7deb44a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: socialnets
     urls:
@@ -58,9 +58,9 @@ entries:
   subscription:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.017681761Z"
+    created: "2023-03-21T16:07:03.79111817Z"
     description: A Helm chart for Kubernetes
-    digest: 91ff345f6d2346ac9b18a563583e9aaa07de7a9b8d3960009a681022f554460f
+    digest: 40775535a998681ae03c24440f44f90402a7f8239b5bff6a36c505853760f193
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: subscription
     urls:
@@ -69,9 +69,9 @@ entries:
   users:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.018622174Z"
+    created: "2023-03-21T16:07:03.792169824Z"
     description: A Helm chart for Kubernetes
-    digest: 28f945e1696687334946514e6999e1aea986ae75e8cf39ddd486f5cd21c7f7ef
+    digest: 5b017f081ac9dcfd6c603126493c365cb7c8d4c4851b5b63dbab6ddf1a918658
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: users
     urls:
@@ -79,7 +79,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:57:09.018158468Z"
+    created: "2023-03-21T16:07:03.7916943Z"
     description: A Helm chart for Kubernetes
     digest: 84e8fd509e92ad211d8ddc433cd3367cbc4be7bee4ec815f7b214bcd6ae269e4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -87,4 +87,4 @@ entries:
     urls:
     - users-0.3.0.tgz
     version: 0.3.0
-generated: "2023-03-21T15:57:09.014390517Z"
+generated: "2023-03-21T16:07:03.786615739Z"
