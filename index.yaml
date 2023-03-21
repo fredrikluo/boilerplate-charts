@@ -3,9 +3,9 @@ entries:
   contents:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.859706193Z"
+    created: "2023-03-21T15:44:28.676359615Z"
     description: A Helm chart for Kubernetes
-    digest: d4ea69c325ef061fc4a17e9e537519d3d23e5f86df3310654e5109d165a77f9f
+    digest: 8e8f3042dd28ca8377f48b59cc049baf53e8f9fe213bddfc82543c72aff6d345
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: contents
     urls:
@@ -14,9 +14,9 @@ entries:
   media:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.860514303Z"
+    created: "2023-03-21T15:44:28.676861222Z"
     description: A Helm chart for Kubernetes
-    digest: 6b542392f10a19e4efabd2ae9ac956477bd300a65f05834e3e9b4a3f8529b5a7
+    digest: 2ebdd4d72ab9040c5731e01c68f9046b91128e47f2ca7e6e6a353e83463171d9
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: media
     urls:
@@ -25,9 +25,9 @@ entries:
   notification:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.861010009Z"
+    created: "2023-03-21T15:44:28.677352828Z"
     description: A Helm chart for Kubernetes
-    digest: 0796674d478f2050262edd28f0a9e183c2d69e34e8819078f0d0cf65ff59b02e
+    digest: a3a9d11c19c220e030e3029bd29d0fe9733f0178f94d32e36e686424395da352
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: notification
     urls:
@@ -36,9 +36,9 @@ entries:
   remoteconfig:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.861509015Z"
+    created: "2023-03-21T15:44:28.677836635Z"
     description: A Helm chart for Kubernetes
-    digest: b7bea5be487c7f429f7f8a5c7054ab7a6dd03a1ef23085e1afec5e3397adb86d
+    digest: 4c9bc510cbac4355af0cf57f27ad5dd22f3a2a22ff911001dccee9471e71e4b0
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
@@ -47,9 +47,9 @@ entries:
   socialnets:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.861983521Z"
+    created: "2023-03-21T15:44:28.678293541Z"
     description: A Helm chart for Kubernetes
-    digest: b81d41c3e57b6407df3741fad8ed2b68106eed2eb87771c5d7973994b3c787f5
+    digest: 4e726286e9c308d8717b3b3e5cd984def007cf6c84e3993914b58cc922c2104a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: socialnets
     urls:
@@ -58,9 +58,9 @@ entries:
   subscription:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.862480927Z"
+    created: "2023-03-21T15:44:28.678768348Z"
     description: A Helm chart for Kubernetes
-    digest: eac6a5664ab002e13dc2f38f26145e6a372b77e0fc77648adefb08c31b701dee
+    digest: ebd475a92bae7ab2a316b67642c29b4c6036d517c337aa17d87e18c5cf51301e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: subscription
     urls:
@@ -69,9 +69,9 @@ entries:
   users:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.863459239Z"
+    created: "2023-03-21T15:44:28.67971086Z"
     description: A Helm chart for Kubernetes
-    digest: 4798a1db0051789c40e7c9afe865330fb4ebf63d04f827b4108bb9871477d3de
+    digest: 2bcc4c20d45257805b70538a807b1343829af37082f33214a80dc5cdf0cfdfe0
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: users
     urls:
@@ -79,7 +79,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-03-21T15:17:19.862975133Z"
+    created: "2023-03-21T15:44:28.679232754Z"
     description: A Helm chart for Kubernetes
     digest: 84e8fd509e92ad211d8ddc433cd3367cbc4be7bee4ec815f7b214bcd6ae269e4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -87,4 +87,4 @@ entries:
     urls:
     - users-0.3.0.tgz
     version: 0.3.0
-generated: "2023-03-21T15:17:19.858693081Z"
+generated: "2023-03-21T15:44:28.675157498Z"
