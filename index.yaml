@@ -3,7 +3,17 @@ entries:
   bpkeycloak:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.159268346Z"
+    created: "2023-04-08T15:22:09.653817699Z"
+    description: A Helm chart for notification module
+    digest: 090559ba838a6d3b38738b32ab2f2eed130b6b4563a427c997148d2c1dbf3828
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
+    name: bpkeycloak
+    urls:
+    - bpkeycloak-21.6.2.tgz
+    version: 21.6.2
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2023-04-08T15:22:09.653352392Z"
     description: A Helm chart for notification module
     digest: 0ff89055a0cc82f6facbeb1cd068c06b76d4d0108bacc676afcad1d242af7552
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -14,9 +24,9 @@ entries:
   contents:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.163160223Z"
+    created: "2023-04-08T15:22:09.657928162Z"
     description: A Helm chart for contents module
-    digest: ebe6562e57dcc1491085d18d4c5f99ebf59fad41ffa07b2576040bf720455c03
+    digest: dd09b9f88792cb120e45971940a1b94845e22489fa6a9540f98d5200447b5759
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: contents
     urls:
@@ -24,7 +34,7 @@ entries:
     version: 0.15.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.162531011Z"
+    created: "2023-04-08T15:22:09.657430455Z"
     description: A Helm chart for contents module
     digest: 1655966de5a6527846a4927f1e8e596c042a30ca5cc2ce460a32c67f6c6e1e3f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -34,7 +44,7 @@ entries:
     version: 0.14.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.161889498Z"
+    created: "2023-04-08T15:22:09.656947847Z"
     description: A Helm chart for Kubernetes
     digest: 8fc310f1780a18407baaf7cbef049872c9dcb23adfed84fecc0e3bb072fdee4d
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -44,7 +54,7 @@ entries:
     version: 0.13.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.161272586Z"
+    created: "2023-04-08T15:22:09.65646304Z"
     description: A Helm chart for Kubernetes
     digest: d563fcd17b209c746587b95a905c139e46b89c9606fcf5d1c48af8e41b1ba669
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -54,7 +64,7 @@ entries:
     version: 0.12.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.160588072Z"
+    created: "2023-04-08T15:22:09.655936832Z"
     description: A Helm chart for Kubernetes
     digest: 964cd9e6a2a461f2033e20a0ebff01180672da2cffb124e3bc089d9e8aec01f0
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -64,7 +74,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.159927959Z"
+    created: "2023-04-08T15:22:09.655284922Z"
     description: A Helm chart for Kubernetes
     digest: 3d6925389723ddac4105201da159bf54e2ff3b21811db1886aa76e6df996674e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -74,7 +84,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.163788736Z"
+    created: "2023-04-08T15:22:09.65840737Z"
     description: A Helm chart for Kubernetes
     digest: f10621307765fb2bfafaf60d5b637cb00c8ca0cb154c5e12f2b7f42751a4b48f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -85,9 +95,9 @@ entries:
   media:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.167653313Z"
+    created: "2023-04-08T15:22:09.661210013Z"
     description: A Helm chart for media module
-    digest: 75e3f356e7d9c7d8e515df587b7157dca035557da63213e9d0414e90182f1119
+    digest: 5dff7bf142cad338c96d9def11ef91a2f2c4c7499ccc713f51bed713c4817be4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: media
     urls:
@@ -95,7 +105,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.166930998Z"
+    created: "2023-04-08T15:22:09.660753906Z"
     description: A Helm chart for media module
     digest: ca388cb5aae0de088f68f43900bef31276b09bd24d300dee58a009a02b8ae3fc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -105,7 +115,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.166336086Z"
+    created: "2023-04-08T15:22:09.660283799Z"
     description: A Helm chart for media module
     digest: 5a8c3b769ec778d8fd4d5cba53294da5f1364dd6610b9cdf274d54be602bc90a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -115,7 +125,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.165709974Z"
+    created: "2023-04-08T15:22:09.659831692Z"
     description: A Helm chart for Kubernetes
     digest: bb6c125201b3fd9d7c6c049d46030f23463ee78915813800f61ed45bbd3925e2
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -125,7 +135,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.165107362Z"
+    created: "2023-04-08T15:22:09.659354085Z"
     description: A Helm chart for Kubernetes
     digest: 8e0db303a481829f47a2db2e6ce2d7f1c5e13d361ab31c1aa1ab6c6551f213f5
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -135,7 +145,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.164445649Z"
+    created: "2023-04-08T15:22:09.658883877Z"
     description: A Helm chart for Kubernetes
     digest: 26b944f3691b7bffc18ce1e582cdef5f7b75f815f7cf25b3e1b1f636d1c8d5ae
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -146,9 +156,9 @@ entries:
   notification:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.16953155Z"
+    created: "2023-04-08T15:22:09.66166402Z"
     description: A Helm chart for notification module
-    digest: 8330226a5c837d6f68c9b4fdb33270632efcd4eac8ddcafc76bd5adf71fe9449
+    digest: e579e542c58eae2ed7c9594b72ec63b7a96e433e60774aca355cfc13ada82b65
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: notification
     urls:
@@ -156,7 +166,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.173830836Z"
+    created: "2023-04-08T15:22:09.666006488Z"
     description: A Helm chart for notification module
     digest: e58848a403f274d143e37d86997ce3e65408c5f7caf431d12757b879f35be923
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -166,7 +176,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.172978219Z"
+    created: "2023-04-08T15:22:09.665552481Z"
     description: A Helm chart for notification module
     digest: 3412d3a3322bb167835c8f03742e0d37f6fdadf5984d805f0ca99e4b8eae42a5
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -176,7 +186,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.172407507Z"
+    created: "2023-04-08T15:22:09.665106374Z"
     description: A Helm chart for Kubernetes
     digest: 49c67e663caf44bddb0715d0e35cdbd8041545bdece07eb1718bc23e69d5b08f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -186,7 +196,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.171781695Z"
+    created: "2023-04-08T15:22:09.664632266Z"
     description: A Helm chart for Kubernetes
     digest: 1abf318c9f4b06febe3a5f8f6488007d3519278dd341b3a6b020d2e4e957109a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -196,7 +206,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.171166983Z"
+    created: "2023-04-08T15:22:09.663618851Z"
     description: A Helm chart for Kubernetes
     digest: b5505cf3f862b90f45551148f941c2ca6fe256aed3ec9f9dddd6cfa07cb162b3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -206,7 +216,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.17054067Z"
+    created: "2023-04-08T15:22:09.662787838Z"
     description: A Helm chart for Kubernetes
     digest: a953f755fe54571c556693f9f7074afa765b07692459c9bc8f868bf3ad5cd0a9
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -217,7 +227,7 @@ entries:
   postgres:
   - apiVersion: v2
     appVersion: "1"
-    created: "2023-04-08T14:51:26.176488789Z"
+    created: "2023-04-08T15:22:09.667914717Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -231,7 +241,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2023-04-08T14:51:26.175803975Z"
+    created: "2023-04-08T15:22:09.667416709Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -245,7 +255,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2023-04-08T14:51:26.175152962Z"
+    created: "2023-04-08T15:22:09.666944202Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -259,7 +269,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2023-04-08T14:51:26.174449848Z"
+    created: "2023-04-08T15:22:09.666475295Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -274,9 +284,9 @@ entries:
   remoteconfig:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.18156509Z"
+    created: "2023-04-08T15:22:09.67067476Z"
     description: A Helm chart for remoteconfig module
-    digest: d21a2b010867498f3e3d984d85dc494bcd3136326a95e19dd49b73965f970b2f
+    digest: 7553d341cd205fa0249ab2b4bf1af74cadee979fe1103804a64003643dac578e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: remoteconfig
     urls:
@@ -284,7 +294,7 @@ entries:
     version: 0.16.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.180373566Z"
+    created: "2023-04-08T15:22:09.670210953Z"
     description: A Helm chart for remoteconfig module
     digest: af1932891b8e6db115ce52f77260e69973286dd0fc840cacb2370b59c693b7bd
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -294,7 +304,7 @@ entries:
     version: 0.15.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.179265944Z"
+    created: "2023-04-08T15:22:09.669744746Z"
     description: A Helm chart for remoteconfig module
     digest: 921117fc1b1a6326f5dcf179ebe79cda92bca8bdaf0b560ded0102449e917a67
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -304,7 +314,7 @@ entries:
     version: 0.14.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.178612731Z"
+    created: "2023-04-08T15:22:09.669284338Z"
     description: A Helm chart for Kubernetes
     digest: daf602c471713f41e6408a005b9341c51c0d6eb5fe78e72336143baa598241cd
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -314,7 +324,7 @@ entries:
     version: 0.13.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.178008919Z"
+    created: "2023-04-08T15:22:09.668836731Z"
     description: A Helm chart for Kubernetes
     digest: 48de1ad828d5fae28dc84ff68079e1e0c8fc05a351242557cd9d1d4a008fe10f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -324,7 +334,7 @@ entries:
     version: 0.12.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.177097501Z"
+    created: "2023-04-08T15:22:09.668390125Z"
     description: A Helm chart for Kubernetes
     digest: 1a889a2927d911591c8f73bfb9f71a7a810a7d9d1483de9d786d82ccfa263c47
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -335,9 +345,9 @@ entries:
   socialnets:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.185500768Z"
+    created: "2023-04-08T15:22:09.674622221Z"
     description: A Helm chart for socialnet module
-    digest: 7911b06e293d028465714e8d88fbe18ce55e3335596eadfba9419a17f6f74a70
+    digest: 58b08f751d30343e3869a131eda8b151f5576b4721ab0c56ea31525c4a6dbd54
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: socialnets
     urls:
@@ -345,7 +355,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.184908356Z"
+    created: "2023-04-08T15:22:09.673328601Z"
     description: A Helm chart for socialnet module
     digest: e30e8411c9e7d564085597b9b99d4d2770c4570eae5c35ce140e1947d8d88e3d
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -355,7 +365,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.184333645Z"
+    created: "2023-04-08T15:22:09.672536089Z"
     description: A Helm chart for socialnet module
     digest: 10cc7b08e006a0c247193cb375d57789d67e4130530d9a3ffef684580f922d2f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -365,7 +375,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.183381826Z"
+    created: "2023-04-08T15:22:09.672071782Z"
     description: A Helm chart for Kubernetes
     digest: 8dbc4d061e55493af135a2c41442d80e82fb48ed386822e040fda9598f7d6418
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -375,7 +385,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.182791714Z"
+    created: "2023-04-08T15:22:09.671607274Z"
     description: A Helm chart for Kubernetes
     digest: 6b432269720fef4943823a35d33d24ca58b870ac90e8487a053c941b8adfbd91
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -385,7 +395,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.182192702Z"
+    created: "2023-04-08T15:22:09.671158867Z"
     description: A Helm chart for Kubernetes
     digest: 5c17237424ecca5af4f386acf6257fc1c57bad22857e97609c2ac6b12aa3009e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -396,9 +406,9 @@ entries:
   subscription:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.18609808Z"
+    created: "2023-04-08T15:22:09.675082928Z"
     description: A Helm chart for subscription module
-    digest: 7b39b630cc58c72b9a7fde31b577f4a9755a0a6d6e3ee3dba52c71864db1a431
+    digest: 04a2617856293e25b663d8732d4ac971905cc1d169462fd240f4b7e59952d85f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: subscription
     urls:
@@ -406,7 +416,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.190200862Z"
+    created: "2023-04-08T15:22:09.678236677Z"
     description: A Helm chart for subscription module
     digest: 01e7b6564d404c9c5efe12dfcabeffd3227c6e9be02955e823e28c116819d834
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -416,7 +426,7 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.18960725Z"
+    created: "2023-04-08T15:22:09.67778347Z"
     description: A Helm chart for subscription module
     digest: 0a3e818e29054f582cb82c6a6bc61cd93465dbafc6064e451d0e9e2813be1968
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -426,7 +436,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.189056539Z"
+    created: "2023-04-08T15:22:09.677347963Z"
     description: A Helm chart for subscription module
     digest: c237b1b854c6c528d638a61f6c7fe126624776ce90db14187d167c451ce67a7c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -436,7 +446,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.188471727Z"
+    created: "2023-04-08T15:22:09.676912257Z"
     description: A Helm chart for subscription module
     digest: c4b08e1f163f7d02308f233b06b0bc54f7fc6f8b8763f37412ad6b706449cdc5
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -446,7 +456,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.187790514Z"
+    created: "2023-04-08T15:22:09.67647235Z"
     description: A Helm chart for Kubernetes
     digest: c7a2296d4dc14c44d1ac2190075d9976d2e1d08c1a35a4e3538e449fcfc7d958
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -456,7 +466,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.187235703Z"
+    created: "2023-04-08T15:22:09.675983242Z"
     description: A Helm chart for Kubernetes
     digest: 6e7d33066433ca231fc5d25959e0ab8dda320b73b97bc7034344fc16efb61f1a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -466,7 +476,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.186660891Z"
+    created: "2023-04-08T15:22:09.675536235Z"
     description: A Helm chart for Kubernetes
     digest: dff6042958f8ee4ee2e397c3a55fffaeb99f3cb8c990c336ef50e63419c1a805
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -477,9 +487,9 @@ entries:
   users:
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.194737152Z"
+    created: "2023-04-08T15:22:09.682375641Z"
     description: A Helm chart for Kubernetes
-    digest: f30b7b029a3f6a1d02339d408aa13e814d8dcd47e7e7a811179a2e64fc71cd66
+    digest: ae612d18de777bfe6a0fe4d005756f69dcc0526c7d2c93b2cb6a75d5e7c18551
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: users
     urls:
@@ -487,7 +497,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.194216342Z"
+    created: "2023-04-08T15:22:09.680893918Z"
     description: A Helm chart for Kubernetes
     digest: 2f4a5daa348a50f457a1a9cde61915e2bcf38ed0f0a914988762bcd7e7c54fb3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -497,7 +507,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.19363113Z"
+    created: "2023-04-08T15:22:09.679994304Z"
     description: A Helm chart for Kubernetes
     digest: db69cd70856ca2eedefbce95271ea6c7e7d6ccfa282a013b9d5612e5a8f09960
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -507,7 +517,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.19260381Z"
+    created: "2023-04-08T15:22:09.679555698Z"
     description: A Helm chart for Kubernetes
     digest: c8fa3b04c97872f1c4e6392aabc8c8abb155a1a662a7453c7e8ed25126bc2a25
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -517,7 +527,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.191711092Z"
+    created: "2023-04-08T15:22:09.679106691Z"
     description: A Helm chart for Kubernetes
     digest: 2e72e9b656c2580a2a0f71218056f17148b3d0f68d0cfcb36d7fbca6eb1e6d5f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -527,7 +537,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1"
-    created: "2023-04-08T14:51:26.190718272Z"
+    created: "2023-04-08T15:22:09.678664484Z"
     description: A Helm chart for Kubernetes
     digest: 84e8fd509e92ad211d8ddc433cd3367cbc4be7bee4ec815f7b214bcd6ae269e4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -535,4 +545,4 @@ entries:
     urls:
     - users-0.3.0.tgz
     version: 0.3.0
-generated: "2023-04-08T14:51:26.156792096Z"
+generated: "2023-04-08T15:22:09.652682281Z"
